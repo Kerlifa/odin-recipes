@@ -1,2 +1,2 @@
 # odin-recipes
-This project is about making a website using the html codes we have learned, such as: paragaphs<p>, headers<h1>, unordered lists<ul><li>, ordered lists<ol><li>, bolding<strong>, itallic<em> and the html basic heading lineup. 
+<!--This project is about making a website using the html codes we have learned, such as: paragaphs<p>, headers<h1>, unordered lists<ul><li>, ordered lists<ol><li>, bolding<strong>, itallic<em> and the html basic heading lineup. -->
